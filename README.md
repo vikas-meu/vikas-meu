@@ -69,14 +69,6 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VikasSinghThakur&show_icons=true&theme=radical" height="150">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasSinghThakur&theme=radical" height="150">
-</p>
-
----
 
 <div align="center">
 <img src="https://media.tenor.com/WKzME33TRNEAAAAi/cute-robot.gif" width="100">
