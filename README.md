@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robot+Builder+%7C+AI+Experimenter+%7C+Maker+%7C+ROS+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Hackathon+Winner)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="150" height="150">
 </div>
@@ -9,23 +9,38 @@
 
 # ✨ About Me
 
-Hi there! 👋 I'm **Vikas Singh Thakur**, an enthusiastic **Robotics & AI developer**, passionate about building things that move, think, and interact with the world.
+Hi! I'm **Vikas Singh Thakur**, a passionate **Robotics, AI, and Embedded Systems Developer**, currently pursuing B.Tech in **Electronics & Telecommunication** at SSIPMT, Raipur.
 
-From **Robot Arms**, **2D & 3D Kinematics**, to **AI-powered Robots**, I love turning code, hardware, and creativity into working prototypes. My toolbox ranges from embedded systems to computer vision and modern LLM-based interfaces.  
-
----
-
-## 🛠️ What I Do
-
-- 🤖 **Robot Developer:** ROS2, Arduino, Jetson, RealSense & Servo Control  
-- 🧠 **AI Integration:** Vision-Language Models, OpenAI, ChatGPT, Ollama, LLaVA  
-- 🎮 **Game Dev (Side Hustle):** Building Pixel-art 2D Games with Pygame  
-- 🛠️ **Tinkerer:** Embedded systems, 3D CAD (Fusion 360), and hardware projects  
-- 🔬 **Exploring:** AI-based Robotics, Natural interaction with Robots, Autonomous Navigation  
+I love building robots, integrating AI with hardware, and participating in hackathons to turn wild tech ideas into reality. With 2 granted patents and 15 hackathon wins, I focus on real-world problem-solving through engineering.
 
 ---
 
-## 🚀 Tech Stack
+## 🏆 Notable Achievements
+
+- 🏅 **2 Patents Granted** (2025)  
+- 🚁 **DGCI Certified Drone Pilot** (2025)  
+- 🥇 **15 Hackathon Wins** including IIT Madras, IIT Bhilai, GNIT Hyderabad  
+- 🎖️ **AICTE IDEA Lab Ambassador**  
+- 🎓 **SAC AI & Robotics Coordinator**, SSIPMT  
+
+---
+
+## 🤖 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **Agricultural Robotics Cart** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/16lCpuMwvigDas_41uwQXLnbiuCHtTcwL/view?usp=sharing) |
+| **Humanoid Robot for Bomb Diffusion** | Teleoperated humanoid with motion mimic & VR support | [View Details](https://drive.google.com/file/d/1Q9hoCWJ_ih_CRskLTwFrPaSnkeSurJ-g/view?usp=sharing) |
+| **Intelligent Robotic Manipulator** | Autonomous, teachable robot arm for industrial tasks | [View Details](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view?usp=sharing) |
+| **Underwater Robotic Fish** | Sensor-equipped fish robot for aquatic data collection | [View Folder](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link) |
+| **Plant Health Monitoring with Facial Expressions** | IoT-based plant monitoring with intuitive interaction | [View Folder](https://drive.google.com/drive/folders/1h_rmrVR2aa_9GAnVGp8nrwNlkSc8hTxr?usp=drive_link) |
+| **Agile, Motion-Mimicking Robot Arm** | High-precision robot arm for hazardous tasks | [View Folder](https://drive.google.com/drive/folders/1xYVOC6hvaQ8Omx3O-0hLnjw7k_tb_h8J?usp=drive_link) |
+| **Robotic Car for Precise Pick & Place** | Vision-guided robotic vehicle showcased at IIT Bombay | [View Folder](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX?usp=drive_link) |
+| **Underwater Submarine with Bladeless Propulsion** | Eco-friendly aquatic robot for water quality data | [View File](https://drive.google.com/file/d/1eySbv-qaXEwxN_jIlMGxzyafh50tN3gb/view?usp=drive_link) |
+
+---
+
+## 🛠️ Tech Stack
 
 | **Category**           | **Tools & Tech**                                                                                                                                                                                                                                              |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,25 +48,23 @@ From **Robot Arms**, **2D & 3D Kinematics**, to **AI-powered Robots**, I love tu
 | **Robotics**           | ROS2, Arduino, Jetson Nano/Orin, RealSense, PyFirmata, OpenCV, MediaPipe                                                                                                                                                                                     |
 | **AI & LLMs**          | ChatGPT API, Ollama, NanoVLM, LLaVA, Speech Recognition                                                                                                                                                                                                      |
 | **Game Dev**           | Pygame, Pixel Art, Custom Game Physics                                                                                                                                                                                                                        |
-| **Hardware**           | Embedded Systems, Sensors (MPU6050, Depth Cameras), 3D CAD (Fusion 360)                                                                                                                                                                                      |
-| **Web & Scripting**    | Basic HTML/CSS, Python scripting, Git                                                                                                                                                                                                                        |
+| **Hardware**           | Embedded Systems, PCB Design, 3D CAD (Fusion 360), Sensors, IoT, STM32, RISC-V SBCs                                                                                                                                                                         |
 | **OS**                 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                                |
 
 ---
 
-## 📡 Current Projects
+## 📡 Quick Links
 
-- 🤖 Building an AI-powered **Robot Arm** with RealSense Depth Tracking  
-- 🎮 Developing a **2D Pixel-Art Adventure Game** with fighting & biomes  
-- 🧠 Experimenting with **LLM-Controlled Robots** using ChatGPT + Computer Vision  
-- 🛰️ Integrating **Voice + Vision Commands** on Jetson for Real-World Robots  
+- 📄 [View My Detailed CV (PDF)](https://drive.google.com/file/d/1TQiOudC1uQ7XZdxez8TfvthfscOLVoq_/view?usp=sharing)  
+- 🎒 [AICTE IDEA Lab & Hackathon Certificates](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link)  
+- 🔬 [Project Documentation Drive](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX?usp=drive_link)  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-singh-thakur-695961264)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasthakur452@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas0singh0thakur)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashsnghthkr@gmail.com)  
 
 ---
 
@@ -66,5 +79,5 @@ From **Robot Arms**, **2D & 3D Kinematics**, to **AI-powered Robots**, I love tu
 
 <div align="center">
 <img src="https://media.tenor.com/WKzME33TRNEAAAAi/cute-robot.gif" width="100">
-<h4>Thanks for stopping by!</h4>
+<h4>Thanks for visiting my profile!</h4>
 </div>
