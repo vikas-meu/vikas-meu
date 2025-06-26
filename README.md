@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Hackathon+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Hackathon+Winner)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="150" height="150">
 </div>
