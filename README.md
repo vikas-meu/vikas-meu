@@ -20,7 +20,7 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 - 🏅 **2 Patents Granted** (2025)  
 - 🚁 **DGCI Certified Drone Pilot** (2025)  
-- 🥇 **15 Hackathon Wins** including IIT Madras, IIT Bhilai, GNIT Hyderabad  
+- 🥇 **15 Hackathon Wins** including IIT Madras, IIT Bhilai, NIT Raipur 
 - 🎖️ **AICTE IDEA Lab Ambassador**  
 - 🎓 **SAC AI & Robotics Coordinator**, SSIPMT  
 
