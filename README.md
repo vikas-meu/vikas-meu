@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Hackathon+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Robot+Builder)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="150" height="150">
 </div>
@@ -10,7 +10,7 @@
 
 # ✨ About Me
 
-Hi! I'm **Vikas Singh Thakur**, a passionate **Robotics, AI, and Embedded Systems Developer**, currently pursuing B.Tech in **Electronics & Telecommunication** at SSIPMT, Raipur.
+Hi! I'm **Vikas Singh Thakur**, a passionate **Robotics, AI, and Robotics Systems Developer**, currently pursuing B.Tech in **Electronics & Telecommunication** at SSIPMT, Raipur.
 
 I love building robots, integrating AI with hardware, and participating in hackathons to turn wild tech ideas into reality. With 2 granted patents and 15 hackathon wins, I focus on real-world problem-solving through engineering.
 
@@ -30,7 +30,8 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 | Project | Description | Link |
 |---|---|---|
-| **Agricultural Robotics Cart** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/16lCpuMwvigDas_41uwQXLnbiuCHtTcwL/view?usp=sharing) |
+| **HUMANOID ROBOT (Not Joking.... ok not belive me, then check the link)** | Autonomous/Teleoperable robot like those scifi type | [View Details](https://drive.google.com/file/d/1Fy3eq-QOydY7smjIZB_JT05vAy36Qsti/view?usp=drive_link) |
+| **Agricultural Robotics Cart** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
 | **Humanoid Robot for Bomb Diffusion** | Teleoperated humanoid with motion mimic & VR support | [View Details](https://drive.google.com/file/d/1Q9hoCWJ_ih_CRskLTwFrPaSnkeSurJ-g/view?usp=sharing) |
 | **Intelligent Robotic Manipulator** | Autonomous, teachable robot arm for industrial tasks | [View Details](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view?usp=sharing) |
 | **Underwater Robotic Fish** | Sensor-equipped fish robot for aquatic data collection | [View Folder](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link) |
