@@ -57,7 +57,7 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 ## 📡 Quick Links
 
-- 📄 [View My Detailed CV (PDF)](https://drive.google.com/file/d/1TQiOudC1uQ7XZdxez8TfvthfscOLVoq_/view?usp=sharing)  
+- 📄 [View My Detailed CV (PDF)](https://drive.google.com/file/d/1Ef-v5HMM9hIanayX-EOzBuvmYxq6tG68/view?usp=sharing)  
 - 🎒 [AICTE IDEA Lab & Hackathon Certificates](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link)  
 - 🔬 [Project Documentation Drive](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX?usp=drive_link)  
 
