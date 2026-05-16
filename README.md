@@ -19,11 +19,9 @@ I love building robots, integrating AI with hardware, and participating in hacka
 ## 🏆 Notable Achievements
 
 - 🏅 **MSME 15LAKH GRANT** (2025)
-- 🏅 **2 Patents Granted** (2025)  
+- 🏅 **2 Patents Granted / 3 filled & pending** (2025)  
 - 🚁 **DGCI Certified Drone Pilot** (2025)  
-- 🥇 **18 Hackathon Wins 25 Participated** including IIT Madras, IIT Bhilai, NIT Raipur 
-- 🎖️ **AICTE IDEA Lab Ambassador**  
-- 🎓 **SAC AI & Robotics Coordinator**, SSIPMT  
+- 🥇 **19 Hackathon Wins 29 Participated** including 2X IIT Madras, IIT Bhilai, NIT Raipur
 
 ---
 
@@ -31,9 +29,11 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 | Project | Description | Link |
 |---|---|---|
+| **Autonomous Robot for tea/food serving | Fully Autonomous ros2 based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_ros-gimp-robotics-activity-7438621369568997376-UyaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
+| **Zero Sensor based Autonomous Robot for Swarm oprations | Fully Autonomous computer vision based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_autonomy-hardware-software-activity-7432127289401909248-QKBH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
 | **HUMANOID ROBOT (Not Joking.... ok not belive me, then check the link)** | Autonomous/Teleoperable robot like those scifi type | [View Details](https://drive.google.com/file/d/1Fy3eq-QOydY7smjIZB_JT05vAy36Qsti/view?usp=drive_link) |
-| **Automatic Chemical Sprinkling Robot for desiesed Crops** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
-| **Delta Robot Based weeding robot for farming** | Using delta robot and the laser to taget the weeds based on computer vision classification of crops and the weeds to kill the weeds without human interventiona and zero usage of chemicals | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
+| **Automatic Chemical Sprinkling Robot for Crops** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
+| **Zero chemical usage robot cart with Delta Robot for autonomous weeding and farming** | Using delta robot and the laser to taget the weeds based on computer vision classification of crops and the weeds to kill the weeds without human interventiona and zero usage of chemicals | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
 | **Humanoid Robot for Bomb Diffusion** | Teleoperated humanoid with motion mimic & VR support | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_hello-everyone-excited-to-show-you-my-fully-activity-7196610413092859906-GUuu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
 | **Intelligent Robotic Manipulator** | Autonomous, teachable robot arm for industrial tasks | [View Details](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view?usp=sharing) |
 | **Underwater Robotic Fish** | Sensor-equipped fish robot for aquatic data collection | [View Folder](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link) |
@@ -51,9 +51,8 @@ I love building robots, integrating AI with hardware, and participating in hacka
 | **Programming**        | ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Bash](https://skillicons.dev/icons?i=bash)                                                                             |
 | **Robotics**           | ROS2, Arduino, Jetson Nano/Orin, RealSense, PyFirmata, OpenCV, MediaPipe                                                                                                                                                                                     |
 | **AI & LLMs**          | ChatGPT API, Ollama, NanoVLM, LLaVA, Speech Recognition                                                                                                                                                                                                      |
-| **Game Dev**           | Pygame, Pixel Art, Custom Game Physics                                                                                                                                                                                                                        |
 | **Hardware**           | Embedded Systems, PCB Design, 3D CAD (Fusion 360), Sensors, IoT, STM32, RISC-V SBCs                                                                                                                                                                         |
-| **OS**                 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)                                                |
+| **OS**                 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
@@ -69,6 +68,7 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas0singh0thakur)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashsnghthkr@gmail.com)  
+
 
 ---
 
