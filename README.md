@@ -29,7 +29,7 @@ I love building robots, integrating AI with hardware, and participating in hacka
 
 | Project | Description | Link |
 |---|---|---|
-| **Autonomous Robot for tea/food serving | Fully Autonomous ros2 based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_ros-gimp-robotics-activity-7438621369568997376-UyaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
+| Autonomous Robot for tea/food serving | Fully Autonomous ros2 based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_ros-gimp-robotics-activity-7438621369568997376-UyaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
 | **Zero Sensor based Autonomous Robot for Swarm oprations | Fully Autonomous computer vision based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_autonomy-hardware-software-activity-7432127289401909248-QKBH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
 | **HUMANOID ROBOT (Not Joking.... ok not belive me, then check the link)** | Autonomous/Teleoperable robot like those scifi type | [View Details](https://drive.google.com/file/d/1Fy3eq-QOydY7smjIZB_JT05vAy36Qsti/view?usp=drive_link) |
 | **Automatic Chemical Sprinkling Robot for Crops** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
