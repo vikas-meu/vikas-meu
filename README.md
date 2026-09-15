@@ -1,79 +1,87 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=983&color=00FFA1&center=true&vCenter=true&repeat=false&width=1000&lines=Hey%2C+I'm+Vikas+Singh+Thakur!;LEARNER;Robotics+Enthusiast+%7C+AI+Experimenter+%7C+Tinkerer+%7C+Robot+Builder)](https://git.io/typing-svg)
+<img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="120" height="120">
 
-<img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="150" height="150">
+# Hi, I'm Vikas Singh Thakur 👋
+
+### Robotics Engineer · AI + Hardware Builder · Tinkerer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00FFA1&center=true&vCenter=true&width=650&lines=Building+robots+that+see%2C+think%2C+and+move;Turning+wild+ideas+into+working+hardware;2+patents+granted+%7C+19+hackathon+wins)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas0singh0thakur)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashsnghthkr@gmail.com)
+
 </div>
 
 ---
 
-# ✨ About Me
+## 🧠 About Me
 
-Hi! I'm **Vikas Singh Thakur**, a passionate **Robotics, AI, and Robotics Systems Developer**, currently pursuing B.Tech in **Electronics & Telecommunication** at SSIPMT, Raipur.
+I'm an Electronics & Telecommunication B.Tech student at **SSIPMT, Raipur**, building at the intersection of **robotics, computer vision, and embedded AI**. I like taking robots from "sketch on paper" to "actually working in front of judges" — whether that's an autonomous field robot, a teleoperated humanoid, or a swarm of vision-guided cars.
 
-I love building robots, integrating AI with hardware, and participating in hackathons to turn wild tech ideas into reality. With 2 granted patents and 15 hackathon wins, I focus on real-world problem-solving through engineering.
+I've picked up **2 granted patents** (3 more pending) and **19 wins out of 29 hackathons entered**, including events at IIT Madras (x2), IIT Bhilai, and NIT Raipur, and I'm a **DGCA-certified drone pilot**.
 
 ---
 
-## 🏆 Notable Achievements
+## 🏆 Highlights
 
-- 🏅 **MSME 15LAKH GRANT** (2025)
-- 🏅 **2 Patents Granted / 3 filled & pending** (2025)  
-- 🚁 **DGCI Certified Drone Pilot** (2025)  
-- 🥇 **19 Hackathon Wins 29 Participated** including 2X IIT Madras, IIT Bhilai, NIT Raipur
+| | |
+|---|---|
+| 🏅 | MSME ₹15 Lakh Grant (2025) |
+| 📜 | 2 patents granted · 3 filed & pending (2025) |
+| 🚁 | DGCA-certified drone pilot (2025) |
+| 🥇 | 19 hackathon wins out of 29 participated — incl. 2× IIT Madras, IIT Bhilai, NIT Raipur |
 
 ---
 
 ## 🤖 Featured Projects
 
-| Project | Description | Link |
+| Project | What it does | Link |
 |---|---|---|
-| Autonomous Robot for tea/food serving | Fully Autonomous ros2 based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_ros-gimp-robotics-activity-7438621369568997376-UyaB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
-| **Zero Sensor based Autonomous Robot for Swarm oprations | Fully Autonomous computer vision based robot | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_autonomy-hardware-software-activity-7432127289401909248-QKBH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
-| **HUMANOID ROBOT (Not Joking.... ok not belive me, then check the link)** | Autonomous/Teleoperable robot like those scifi type | [View Details](https://drive.google.com/file/d/1Fy3eq-QOydY7smjIZB_JT05vAy36Qsti/view?usp=drive_link) |
-| **Automatic Chemical Sprinkling Robot for Crops** | Autonomous field robot for precise pesticide spraying | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
-| **Zero chemical usage robot cart with Delta Robot for autonomous weeding and farming** | Using delta robot and the laser to taget the weeds based on computer vision classification of crops and the weeds to kill the weeds without human interventiona and zero usage of chemicals | [View Details](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view?usp=sharing) |
-| **Humanoid Robot for Bomb Diffusion** | Teleoperated humanoid with motion mimic & VR support | [View Details](https://www.linkedin.com/posts/vikas0singh0thakur_hello-everyone-excited-to-show-you-my-fully-activity-7196610413092859906-GUuu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEe89MBVuzD_EAzTTdY-DkC6uOw4sahVs0) |
-| **Intelligent Robotic Manipulator** | Autonomous, teachable robot arm for industrial tasks | [View Details](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view?usp=sharing) |
-| **Underwater Robotic Fish** | Sensor-equipped fish robot for aquatic data collection | [View Folder](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link) |
-| **Plant Health Monitoring with Facial Expressions** | IoT-based plant monitoring with intuitive interaction | [View Folder](https://drive.google.com/drive/folders/1h_rmrVR2aa_9GAnVGp8nrwNlkSc8hTxr?usp=drive_link) |
-| **Agile, Motion-Mimicking Robot Arm** | High-precision robot arm for hazardous tasks | [View Folder](https://drive.google.com/drive/folders/1xYVOC6hvaQ8Omx3O-0hLnjw7k_tb_h8J?usp=drive_link) |
-| **Robotic Car for Precise Pick & Place** | Vision-guided robotic vehicle showcased at IIT Bombay | [View Folder](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX?usp=drive_link) |
-| **Underwater Submarine with Bladeless Propulsion** | Eco-friendly aquatic robot for water quality data | [View File](https://drive.google.com/file/d/1eySbv-qaXEwxN_jIlMGxzyafh50tN3gb/view?usp=drive_link) |
+| **Autonomous Serving Robot** | Fully autonomous ROS2-based robot for tea/food delivery | [View](https://www.linkedin.com/posts/vikas0singh0thakur_ros-gimp-robotics-activity-7438621369568997376-UyaB) |
+| **Zero-Sensor Swarm Robot** | Fully autonomous, computer-vision-only robot for swarm operations | [View](https://www.linkedin.com/posts/vikas0singh0thakur_autonomy-hardware-software-activity-7432127289401909248-QKBH) |
+| **Humanoid Robot** | Autonomous & teleoperable humanoid platform | [View](https://drive.google.com/file/d/1Fy3eq-QOydY7smjIZB_JT05vAy36Qsti/view) |
+| **Autonomous Chemical Sprayer** | Field robot for precise, autonomous pesticide spraying | [View](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view) |
+| **Zero-Chemical Weeding Cart** | Delta-robot + laser system that identifies and eliminates weeds via CV, no chemicals used | [View](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view) |
+| **Bomb-Disposal Humanoid** | Teleoperated humanoid with motion-mimic control and VR support | [View](https://www.linkedin.com/posts/vikas0singh0thakur_hello-everyone-excited-to-show-you-my-fully-activity-7196610413092859906-GUuu) |
+| **Intelligent Robotic Manipulator** | Autonomous, teachable robot arm for industrial tasks | [View](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view) |
+| **Underwater Robotic Fish** | Sensor-equipped fish robot for aquatic data collection | [View](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-) |
+| **Plant Health Monitor** | IoT-based plant monitoring that reacts with expressive feedback | [View](https://drive.google.com/drive/folders/1h_rmrVR2aa_9GAnVGp8nrwNlkSc8hTxr) |
+| **Motion-Mimicking Robot Arm** | High-precision arm for hazardous-task teleoperation | [View](https://drive.google.com/drive/folders/1xYVOC6hvaQ8Omx3O-0hLnjw7k_tb_h8J) |
+| **Pick & Place Robotic Car** | Vision-guided robotic vehicle, showcased at IIT Bombay | [View](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX) |
+| **Bladeless-Propulsion Submarine** | Eco-friendly aquatic robot for water-quality data collection | [View](https://drive.google.com/file/d/1eySbv-qaXEwxN_jIlMGxzyafh50tN3gb/view) |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| **Category**           | **Tools & Tech**                                                                                                                                                                                                                                              |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming**        | ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Bash](https://skillicons.dev/icons?i=bash)                                                                             |
-| **Robotics**           | ROS2, Arduino, Jetson Nano/Orin, RealSense, PyFirmata, OpenCV, MediaPipe                                                                                                                                                                                     |
-| **AI & LLMs**          | ChatGPT API, Ollama, NanoVLM, LLaVA, Speech Recognition                                                                                                                                                                                                      |
-| **Hardware**           | Embedded Systems, PCB Design, 3D CAD (Fusion 360), Sensors, IoT, STM32, RISC-V SBCs                                                                                                                                                                         |
-| **OS**                 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+**Languages**
+![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Bash](https://skillicons.dev/icons?i=bash)
+
+**Robotics & Vision**
+`ROS2` · `Arduino` · `Jetson Nano / Orin` · `Intel RealSense` · `PyFirmata` · `OpenCV` · `MediaPipe`
+
+**AI & LLMs**
+`ChatGPT API` · `Ollama` · `NanoVLM` · `LLaVA` · `Speech Recognition`
+
+**Hardware**
+`Embedded Systems` · `PCB Design` · `Fusion 360 (3D CAD)` · `Sensors` · `IoT` · `STM32` · `RISC-V SBCs`
+
+**OS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📡 Quick Links
 
-- 📄 [View My Detailed CV (PDF)](https://drive.google.com/file/d/1Ef-v5HMM9hIanayX-EOzBuvmYxq6tG68/view?usp=sharing)  
-- 🎒 [AICTE IDEA Lab & Hackathon Certificates](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-?usp=drive_link)  
-- 🔬 [Project Documentation Drive](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX?usp=drive_link)  
+- 📄 [Detailed CV (PDF)](https://drive.google.com/file/d/1Ef-v5HMM9hIanayX-EOzBuvmYxq6tG68/view)
+- 🎒 [AICTE IDEA Lab & Hackathon Certificates](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-)
+- 🔬 [Project Documentation Drive](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX)
 
 ---
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas0singh0thakur)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashsnghthkr@gmail.com)  
-
-
----
-
 
 <div align="center">
-<img src="https://media.tenor.com/WKzME33TRNEAAAAi/cute-robot.gif" width="100">
-<h4>Thanks for visiting my profile!</h4>
+<img src="https://media.tenor.com/WKzME33TRNEAAAAi/cute-robot.gif" width="90">
+
+<sub>Thanks for stopping by — always happy to talk robots.</sub>
 </div>
