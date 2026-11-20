@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-label="Vikas Singh Thakur">
+  <defs>
+    <linearGradient id="base" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0">
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1300 0" dur="3.5s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#FFE45C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFF3A0" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFE45C" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="o0" gradientUnits="userSpaceOnUse" cx="500" cy="90" r="150">
+      <animate attributeName="cx" values="318;825;245;705;756;780;641;318" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="136;92;103;101;100;86;82;136" dur="11s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#FF6B00" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FF6B00" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="o1" gradientUnits="userSpaceOnUse" cx="500" cy="90" r="150">
+      <animate attributeName="cx" values="740;247;816;315;113;171;308;740" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="109;78;81;70;61;140;93;109" dur="14s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#FF8C1A" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FF8C1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="o2" gradientUnits="userSpaceOnUse" cx="500" cy="90" r="150">
+      <animate attributeName="cx" values="832;597;135;668;851;875;310;832" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="74;135;110;102;76;96;114;74" dur="17s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#E85D04" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#E85D04" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="#FFB703" opacity="0.35" filter="url(#soft)">Vikas Singh Thakur</text>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#base)">Vikas Singh Thakur</text>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#o0)">Vikas Singh Thakur</text>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#o1)">Vikas Singh Thakur</text>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#o2)">Vikas Singh Thakur</text>
+  <text x="500" y="118" text-anchor="middle" textLength="880" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#sweep)">Vikas Singh Thakur</text>
+  <circle r="3.5" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="14.6s" repeatCount="indefinite" path="M331 36 Q37 78 645 23 Q70 16 534 69 Q425 149 76 91 Q124 40 331 36"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.0s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="12.8s" repeatCount="indefinite" path="M65 146 Q582 115 298 35 Q372 99 133 60 Q63 11 803 40 Q206 122 65 146"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.0s" begin="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.9" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="9.7s" repeatCount="indefinite" path="M258 40 Q609 13 769 25 Q512 30 308 89 Q342 168 350 82 Q422 173 258 40"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.3s" begin="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.7" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="9.2s" repeatCount="indefinite" path="M687 105 Q61 126 577 83 Q647 179 826 159 Q822 51 475 116 Q386 120 687 105"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.4s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.1" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="11.1s" repeatCount="indefinite" path="M229 57 Q278 25 729 74 Q431 99 900 89 Q706 178 180 75 Q683 68 229 57"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.4s" begin="2.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#FFB703" filter="url(#glow)">
+    <animateMotion dur="16.2s" repeatCount="indefinite" path="M486 104 Q690 93 272 13 Q618 122 422 70 Q54 162 564 161 Q780 157 486 104"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.8" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="14.4s" repeatCount="indefinite" path="M404 42 Q537 171 965 81 Q614 13 126 106 Q208 68 118 100 Q634 172 404 42"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.4s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.4" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="9.8s" repeatCount="indefinite" path="M481 61 Q205 171 158 129 Q362 124 731 87 Q914 136 684 93 Q298 116 481 61"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.9s" begin="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.4" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="11.5s" repeatCount="indefinite" path="M761 95 Q806 147 768 63 Q740 41 234 139 Q518 64 966 145 Q29 5 761 95"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.2s" begin="2.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="10.1s" repeatCount="indefinite" path="M796 125 Q483 177 356 164 Q610 0 97 28 Q909 62 471 65 Q643 150 796 125"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="13.3s" repeatCount="indefinite" path="M437 111 Q159 179 103 160 Q28 106 713 84 Q465 118 734 25 Q612 107 437 111"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.4s" begin="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#FFB703" filter="url(#glow)">
+    <animateMotion dur="17.2s" repeatCount="indefinite" path="M34 163 Q211 45 644 94 Q293 43 916 80 Q586 47 857 141 Q419 24 34 163"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.8s" begin="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.3" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="14.0s" repeatCount="indefinite" path="M424 155 Q4 144 502 95 Q172 85 523 15 Q725 100 443 41 Q326 93 424 155"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.3s" begin="1.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.4" fill="#FFE066" filter="url(#glow)">
+    <animateMotion dur="13.7s" repeatCount="indefinite" path="M204 19 Q973 109 114 83 Q199 50 47 151 Q508 145 81 63 Q508 45 204 19"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.5s" begin="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#FFB703" filter="url(#glow)">
+    <animateMotion dur="11.0s" repeatCount="indefinite" path="M826 33 Q784 161 137 81 Q154 129 90 50 Q660 26 90 116 Q883 174 826 33"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="1.8s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.3" fill="#FFD23F" filter="url(#glow)">
+    <animateMotion dur="17.9s" repeatCount="indefinite" path="M819 37 Q19 100 434 92 Q440 3 346 43 Q331 112 326 125 Q512 12 819 37"/>
+    <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
