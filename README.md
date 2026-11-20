@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/n4H5eLTvK-oAAAAi/magic-cute.gif" width="110" height="110" alt="">
 
-<h1>Vikas Singh Thakur</h1>
+<img src="./assets/name.svg" width="720" alt="Vikas Singh Thakur">
 
 <p><b>Robotics Engineer</b> &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Embedded AI &nbsp;·&nbsp; Hardware Builder</p>
 
@@ -45,7 +45,7 @@ I build robots end to end — mechanical design, electronics, firmware and the v
 
 <br>
 
-## 🌼 Featured projects
+## 🌼 Projects
 
 | Project | What it does | |
 |:--|:--|:-:|
@@ -56,20 +56,12 @@ I build robots end to end — mechanical design, electronics, firmware and the v
 | **Bomb-Disposal Humanoid** | Teleoperated humanoid with motion-mimic control and VR | [Watch ↗](https://www.linkedin.com/posts/vikas0singh0thakur_hello-everyone-excited-to-show-you-my-fully-activity-7196610413092859906-GUuu) |
 | **Intelligent Robotic Manipulator** | Teachable autonomous robot arm for industrial tasks | [Watch ↗](https://drive.google.com/file/d/1QZMDb6zZF3rDuHIotun1QHWHqfYTb0Wj/view) |
 
-<details>
-<summary><b>More projects</b> &nbsp;(click to expand)</summary>
-<br>
-
-| Project | What it does | |
-|:--|:--|:-:|
 | **Autonomous Chemical Sprayer** | Field robot for precise, autonomous pesticide spraying | [Watch ↗](https://drive.google.com/file/d/1VnigAlZAY25CuYimI96LOyr4zKmdhgkC/view) |
 | **Motion-Mimicking Robot Arm** | High-precision arm for teleoperating hazardous tasks | [View ↗](https://drive.google.com/drive/folders/1xYVOC6hvaQ8Omx3O-0hLnjw7k_tb_h8J) |
 | **Pick & Place Robotic Car** | Vision-guided robotic vehicle, showcased at IIT Bombay | [View ↗](https://drive.google.com/drive/folders/1YiYaS-OCfdbzMyCkLiCRTTD71vNIDVNX) |
 | **Underwater Robotic Fish** | Sensor-equipped robotic fish for aquatic data collection | [View ↗](https://drive.google.com/drive/folders/1GKtiXttmslPjxX4zuQis-kj_OdWOeIo-) |
 | **Bladeless-Propulsion Submarine** | Eco-friendly underwater robot for water-quality sampling | [Watch ↗](https://drive.google.com/file/d/1eySbv-qaXEwxN_jIlMGxzyafh50tN3gb/view) |
 | **Plant Health Monitor** | IoT plant monitor that reacts with expressive feedback | [View ↗](https://drive.google.com/drive/folders/1h_rmrVR2aa_9GAnVGp8nrwNlkSc8hTxr) |
-
-</details>
 
 <br>
 
